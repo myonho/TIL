@@ -1,0 +1,4 @@
+- ssh-keygen -t rsa
+    - キーペアを作成
+- ssh-add ~/.ssh/id_rsa
+    - sshエージェントに鍵を保存
