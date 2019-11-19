@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfe7eefa-f516-4c57-aca3-00c90b0b701a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/GitHub/git-secret.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/command/command-list.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBoot/guide-RESTfu-web-servicel.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
