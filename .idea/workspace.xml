@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfe7eefa-f516-4c57-aca3-00c90b0b701a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Kotlin/the-big-nerd-ranch-guide/note.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin/the-big-nerd-ranch-guide/sample/Hello.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin/the-big-nerd-ranch-guide/sample/types.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample.kotlin/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample.kotlin/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/TIL.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TIL.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample.kotlin/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample.kotlin/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample.kotlin/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample.kotlin/gradlew.bat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin/the-big-nerd-ranch-guide/note.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin/the-big-nerd-ranch-guide/note.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin/the-big-nerd-ranch-guide/sample/Hello.kts" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin/the-big-nerd-ranch-guide/sample/Hello.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin/the-big-nerd-ranch-guide/sample/types.kts" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin/the-big-nerd-ranch-guide/sample/types.kts" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

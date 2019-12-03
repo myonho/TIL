@@ -13,3 +13,9 @@ class SamplePrimitiveType(
     val set: Set<Any>,
     val map: Map<Any>
 )
+
+/** val は厳密には再代入可能
+ * const は 決定的にイミュータブル（compile-time constant）: コンパイル時定数*/
+val fuga
+/** valは関数の実行時に代入される constはコンパイル時に代入される ので、static typeである必要がある */
+const val piyo
