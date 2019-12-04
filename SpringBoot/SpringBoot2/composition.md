@@ -25,7 +25,7 @@
             - 文字コードUTF-8
             - スターターを依存関係に追加
             - テスト用のスターターをアプリの依存関係に追加
-sample：標準的なGradle build-script
+sample：標準的なGradle build-script（extは拡張プロパティ）
 ```
 buildscript{
     ext {
@@ -66,3 +66,5 @@ buildscript{
     
 }
 ``` 
+- configuration-class
+    - ```@Configuration```つきのclass
